@@ -1,0 +1,2 @@
+zlib
+py7zr
